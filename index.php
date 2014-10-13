@@ -23,5 +23,21 @@
 		 </div>
 	</div>
 
+	<div class="navigation">	  
+		 <nav>
+          <center><strong>
+           <a href="includes/overall/home.php">Grider-Home</a>
+           <a href="includes/overall/my_library.php">My Library</a> 
+           <!--<a href="includes/overall/saved_items.php">Saved Items</a>-->
+		   <a href="includes/overall/AboutUs.php">About Us</a>
+           </strong></center>
+        </nav>
+	 </div>
+	</div>
+	<br><br><br><br><br><br><br><br><br>
+	 <div>
+	  <center><a href="includes/overall/loginpage.php"><img src="includes/overall/images/start.png" width="100px" height="auto" alt="start_read"/></a></center>
+	  <br>
+
  </body>
 </html>
