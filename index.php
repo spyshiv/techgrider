@@ -11,5 +11,17 @@
 	<script type="text/javascript" src="includes/overall/engine1/jquery.js"></script>
 <!-- End WOWSlider.com HEAD section -->
 </head>
+<body>
+    <div class="page_header">
+     <div class="container2">
+	     <div id="logo">
+		      <a href="index.php"><img src="includes/overall/Images/icon.png" alt="tech-grider" height="100px" width="auto"/></a>
+		 </div>
+		 <div id="headdesc">
+		      <h1><strong>Tech-Grider</strong></h1>
+			  <p><strong>A Place Where You Can Enhance Knowledge About Technology And Much More.</strong></p>
+		 </div>
+	</div>
 
+ </body>
 </html>
