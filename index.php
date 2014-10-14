@@ -35,9 +35,12 @@
 	 </div>
 	</div>
 	<br><br><br><br><br><br><br><br><br>
+	 <center><a href="includes/overall/loginpage.php"><img src="includes/overall/images/start.png" width="100px" height="auto" alt="start_read"/></a></center>
+	  <br>
+
+	
 	 <div>
 	  <center><a href="includes/overall/loginpage.php"><img src="includes/overall/images/start.png" width="100px" height="auto" alt="start_read"/></a></center>
-	  <br>
 	  
 
  </body>
