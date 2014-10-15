@@ -12,7 +12,9 @@
 <!---->
 </head>
 <body>
-      
+      <div id="whole" align="center">
+      <h1 id="home">Home</h1>
+       </div>
 
 </body>
 </html>
