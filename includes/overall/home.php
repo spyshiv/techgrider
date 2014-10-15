@@ -12,9 +12,10 @@
 <!---->
 </head>
 <body>
-      <div id="whole" align="center">
+     <div id="whole" align="center">
       <h1 id="home">Home</h1>
+         <div class="row">
        </div>
-
+     </div>
 </body>
 </html>
