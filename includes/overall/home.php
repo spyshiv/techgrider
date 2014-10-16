@@ -27,7 +27,7 @@
 					  <p>The Verge was founded in 2011 in partnership with Vox Media, and covers the intersection of technology, science, art, and culture.</p>
 					  <a href="result.php?link=theverge"><center><img src="Images/newsImg/wallpaper/Verge.jpg" height="200px" width="300px" /></center></a>
 				  </div>
-				  
+
 			<div class="element">
 			     <div class="element_head">
                   <img src="Images/newsImg/Engadget.png" height="32px" width="32px" />
@@ -40,6 +40,20 @@
 				 <p>Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics</p>
 				 <a href="result.php?link=engadget"><center><img src="Images/newsImg/wallpaper/Engadget.jpg" height="200px" width="300px" /></center></a> 
 		      </div>
+
+		     <div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/lifehacker.png" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=lifehacker">
+				  <div><strong><p>Life Hacker</p></strong></div>
+				  </a>			 
+				 <a href="check.php?link=lifehacker"><div  class="add_to_library" id="life_hacker"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>This is a private feed for friends and partners of Lifehacker, containing full editorial posts.It will not carry advertise</p>
+				 <a href="result.php?link=lifehacker"><center><img src="Images/newsImg/wallpaper/lifehacker.jpg" height="200px" width="300px" /></center></a> 
+		      </div>
+			  
 
 
        </div>
