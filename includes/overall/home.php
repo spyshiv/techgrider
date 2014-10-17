@@ -100,6 +100,18 @@
          </br></br>
 
          <div class="row">
+                  <div class="element">
+			      <div class="element_head">
+					<img src="Images/newsImg/Mashable.png" height="32px" width="32px" />
+			      </div>
+				  <a href="result.php?link=mashable"><div>
+				    <strong><p>Mashable</p></strong>
+				  </div></a>
+				  <a href="check.php?link=mashable"><div  class="add_to_library" id="mashable"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				  <p>Mashable (Mashable Inc.) is a leading source for news, information and resources for the Connected Generation. </p>
+				  <a href="result.php?link=mashable"><center><img src="Images/newsImg/wallpaper/Mashable.jpg" height="200px" width="300px" /></center></a>
+			  </div>
          </div>
 
        <a href="#" class="back-to-top">Back to Top</a>
