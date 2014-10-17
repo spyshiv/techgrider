@@ -71,6 +71,19 @@
 			  </div>
        </div>
 
+       <div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/Techcrunch.png" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=techcrunch"><div>
+				  <strong><p>Tech Crunch</p></strong>				 
+				 </div></a>
+				  <a href="check.php?link=techcrunch"><div  class="add_to_library" id="tech_crunch"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming t...</p>
+				 <a href="result.php?link=techcrunch"><center><img src="Images/newsImg/wallpaper/Techcrunch.jpg" height="200px" width="300px" /></center></a> 
+		      </div>
+
        <a href="#" class="back-to-top">Back to Top</a>
         <script>
             
