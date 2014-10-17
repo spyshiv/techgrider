@@ -57,7 +57,18 @@
        </div>
 
        <div class="row">
-       
+               <div class="element">
+			      <div class="element_head">
+					<img src="Images/newsImg/Readwrite.png" height="32px" width="32px" />
+			      </div>
+				  <a href="result.php?link=readwrite"><div>
+				    <strong><p>Read Write</p></strong>
+				  </div></a>
+				  <a href="check.php?link=readwrite"><div  class="add_to_library" id="readwrite"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				  <p>The latest news, analysis and conversation in all things web, tech and social media from the http://t.co/rp2Ar....</p>
+				  <a href="result.php?link=readwrite"><center><img src="Images/newsImg/wallpaper/Readwrite.jpg" height="200px" width="300px" /></center></a>
+			  </div>
        </div>
 
        <a href="#" class="back-to-top">Back to Top</a>
