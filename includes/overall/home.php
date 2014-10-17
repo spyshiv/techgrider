@@ -83,6 +83,19 @@
 				 <p>TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming t...</p>
 				 <a href="result.php?link=techcrunch"><center><img src="Images/newsImg/wallpaper/Techcrunch.jpg" height="200px" width="300px" /></center></a> 
 		      </div>
+		      
+		 <div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/Gizmodo.png" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=gizmodo"><div>
+				  <strong><p>Gizmodo</p></strong>				 
+				 </div></a>
+				 <a href="check.php?link=gizmodo"><div  class="add_to_library" id="gizmodo"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>Gizmodo is a design and technology blog. It is part of the Gawker Media network run by Nick Denton and runs on the Kinja platform</p>
+				 <a href="result.php?link=gizmodo"><center><img src="Images/newsImg/wallpaper/Gizmodo.jpg" height="200px" width="300px" /></center></a>
+		      </div>
 
        <a href="#" class="back-to-top">Back to Top</a>
         <script>
