@@ -125,6 +125,19 @@
 				 <p>The Wired website, formerly known as Wired News or HotWired, is an online technology news website..</p>
 				 <a href="result.php?link=wired"><center><img src="Images/newsImg/wallpaper/Wired.jpg" height="200px" width="300px" /></center></a>
 		      </div>
+
+		      <div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/Arstechnica.png" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=arstechnica"><div>
+				  <strong><p>Ars Technica</p></strong>				 
+				 </div></a>
+				 <a href="check.php?link=arstechnica"><div  class="add_to_library" id="ars_technica"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>Ars Technica is a technology news and information website created by Ken Fisher and Jon Stokes in 1998.It publishes news</p>
+				 <a href="result.php?link=arstechnica"><center><img src="Images/newsImg/wallpaper/Arstechnica.jpg" height="200px" width="300px" /></center></a> 
+		      </div>
          </div>
 
        <a href="#" class="back-to-top">Back to Top</a>
