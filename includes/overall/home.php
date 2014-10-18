@@ -139,6 +139,7 @@
 				 <a href="result.php?link=arstechnica"><center><img src="Images/newsImg/wallpaper/Arstechnica.jpg" height="200px" width="300px" /></center></a> 
 		      </div>
          </div>
+          </br></br>
 
        <a href="#" class="back-to-top">Back to Top</a>
         <script>
