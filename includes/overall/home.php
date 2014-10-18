@@ -154,6 +154,21 @@
 				  <p>Slashdot (sometimes abbreviated as /.) is a technology-related news website owned by the US-based company Dice Holdings, Inc.</p>
 				  <a href="result.php?link=slashdot"><center><img src="Images/newsImg/wallpaper/Slashdot.jpg" height="200px" width="300px" /></center></a>
 			  </div>
+           
+           <div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/Googleblog.png" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=googleblog"><div>
+				  <strong><p>Google Blog</p></strong>				 
+				 </div></a>
+				 <a href="check.php?link=googleblog"><div  class="add_to_library" id="google_blog"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>Insights from Googlers into our products, technology, and the Google culture.Get The Official Google Blog delivered to you.</p>
+				 <a href="result.php?link=googleblog"><center><img src="Images/newsImg/wallpaper/Googleblog.jpg" height="200px" width="300px" /></center></a> 
+		      </div>
+               
+
 	       </div>
 
        <a href="#" class="back-to-top">Back to Top</a>
