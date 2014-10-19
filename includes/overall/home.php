@@ -179,9 +179,9 @@
 				 <p>MacRumors.com is a website that aggregates Mac and Apple related news, rumors, and reports. owned by Arnold Kim</p>
 				 <a href="result.php?link=macrumors"><center><img src="Images/newsImg/wallpaper/Macrumors.jpg" height="200px" width="300px" /></center></a>
 		      </div>
-               
-
+       
 	       </div>
+	        </br></br>
 
        <a href="#" class="back-to-top">Back to Top</a>
         <script>
