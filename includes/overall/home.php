@@ -183,6 +183,19 @@
 	       </div>
 	        </br></br>
 	     <div class="row">
+              <div class="element">
+			      <div class="element_head">
+					<img src="Images/newsImg/Thenextweb.png" height="32px" width="32px" />
+			      </div>
+				  <a href="result.php?link=thenextweb"><div>
+				    <strong><p>The Next Web</p></strong>
+				  </div></a>
+				  <a href="check.php?link=thenextweb"><div  class="add_to_library" id="the_next_web"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				  <p>The Next Web was founded in 2008 and manages several initiatives focused on international technology news, business.</p>
+				  <a href="result.php?link=thenextweb"><center><img src="Images/newsImg/wallpaper/Thenextweb.jpg" height="200px" width="300px" /></center></a>
+			  </div>
+
 	     </div>
 
        <a href="#" class="back-to-top">Back to Top</a>
