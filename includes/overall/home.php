@@ -167,6 +167,18 @@
 				 <p>Insights from Googlers into our products, technology, and the Google culture.Get The Official Google Blog delivered to you.</p>
 				 <a href="result.php?link=googleblog"><center><img src="Images/newsImg/wallpaper/Googleblog.jpg" height="200px" width="300px" /></center></a> 
 		      </div>
+		      <div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/Macrumors.png" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=macrumors"><div>
+				  <strong><p>Mac Rumors</p></strong>				 
+				 </div></a>
+				 <a href="check.php?link=macrumors"><div  class="add_to_library" id="mac_rumors"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>MacRumors.com is a website that aggregates Mac and Apple related news, rumors, and reports. owned by Arnold Kim</p>
+				 <a href="result.php?link=macrumors"><center><img src="Images/newsImg/wallpaper/Macrumors.jpg" height="200px" width="300px" /></center></a>
+		      </div>
                
 
 	       </div>
