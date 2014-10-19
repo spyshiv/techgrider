@@ -195,18 +195,18 @@
 				  <p>The Next Web was founded in 2008 and manages several initiatives focused on international technology news, business.</p>
 				  <a href="result.php?link=thenextweb"><center><img src="Images/newsImg/wallpaper/Thenextweb.jpg" height="200px" width="300px" /></center></a>
 			  </div>
-		 <div class="element">
-			     <div class="element_head">
-                  <img src="Images/newsImg/Androidcentral.png" height="32px" width="32px" />
-				  </div>
-				  <a href="result.php?link=androidcentral"><div>
-				  <strong><p>Android Central</p></strong>				 
-				 </div></a>
-				 <a href="check.php?link=androidcentral"><div  class="add_to_library" id="android_central"><b><p title="Add To Library" align="center">+</p></b>
-				  </div></a>
-				 <p>The center of the Android Universe - featuring news, reviews, help & tips, buyer guides, forums and accessories.</p>
-				 <a href="result.php?link=androidcentral"><center><img src="Images/newsImg/wallpaper/Androidcentral.jpg" height="200px" width="300px" /></center></a>
-		      </div>
+			 <div class="element">
+				     <div class="element_head">
+	                  <img src="Images/newsImg/Androidcentral.png" height="32px" width="32px" />
+					  </div>
+					  <a href="result.php?link=androidcentral"><div>
+					  <strong><p>Android Central</p></strong>				 
+					 </div></a>
+					 <a href="check.php?link=androidcentral"><div  class="add_to_library" id="android_central"><b><p title="Add To Library" align="center">+</p></b>
+					  </div></a>
+					 <p>The center of the Android Universe - featuring news, reviews, help & tips, buyer guides, forums and accessories.</p>
+					 <a href="result.php?link=androidcentral"><center><img src="Images/newsImg/wallpaper/Androidcentral.jpg" height="200px" width="300px" /></center></a>
+			      </div>
 
 	     </div>
 
