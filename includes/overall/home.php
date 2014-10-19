@@ -208,6 +208,19 @@
 					 <a href="result.php?link=androidcentral"><center><img src="Images/newsImg/wallpaper/Androidcentral.jpg" height="200px" width="300px" /></center></a>
 			      </div>
 
+			    <div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/Digitaltrends.png" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=digitaltrends"><div>
+				  <strong><p>Digital Trends</p></strong>				 
+				 </div></a>
+				 <a href="check.php?link=digitaltrends"><div  class="add_to_library" id="digital_trends"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>Digital Trends is your home for technology news, CE product reviews, mobile app reviews and daily videos.</p>
+				 <a href="result.php?link=digitaltrends"><center><img src="Images/newsImg/wallpaper/Digitaltrends.jpg" height="200px" width="300px" /></center></a>
+		      </div>
+
 	     </div>
 
        <a href="#" class="back-to-top">Back to Top</a>
