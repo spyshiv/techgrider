@@ -261,10 +261,8 @@
 				 <p>The Bits blog from The New York Times reports on the technology industry,including start-ups,the Internet,enterprise and gadgets</p>
 				 <a href="result.php?link=bits"><center><img src="Images/newsImg/wallpaper/Bits.jpg" height="200px" width="300px" /></center></a> 
 		      </div>
-			  
-			  
-
         </div>
+        </br></br>
 
 
        <a href="#" class="back-to-top">Back to Top</a>
