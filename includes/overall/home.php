@@ -224,7 +224,20 @@
 	     </br></br>
         
         <div class="row">
-        
+              <div class="element">
+			      <div class="element_head">
+					<img src="Images/newsImg/Cnet.png" height="32px" width="32px" />
+			      </div>
+				  <a href="result.php?link=cnet"><div>
+				    <strong><p>C|Net</p></strong>
+				  </div></a>
+				  <a href="check.php?link=cnet"><div  class="add_to_library" id="cnet"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				  <p>CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues.</p>
+				  <a href="result.php?link=cnet"><center><img src="Images/newsImg/wallpaper/Cnet.jpg" height="200px" width="300px" /></center></a>
+			  </div>
+			  
+
         </div>
 
 
