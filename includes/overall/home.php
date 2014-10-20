@@ -249,6 +249,19 @@
 				 <p>ThinkGeek's latest and greatest stuff for smart masses brought to you with love from the minions of the Zombie...</p>
 				 <a href="result.php?link=thinkgeek"><center><img src="Images/newsImg/wallpaper/Thinkgeek.jpg" height="200px" width="300px" /></center></a> 
 		      </div>
+		      <div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/Bits.png" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=bits"><div>
+				  <strong><p>Bits</p></strong>				 
+				 </div></a>
+				 <a href="check.php?link=bits"><div  class="add_to_library" id="bits"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>The Bits blog from The New York Times reports on the technology industry,including start-ups,the Internet,enterprise and gadgets</p>
+				 <a href="result.php?link=bits"><center><img src="Images/newsImg/wallpaper/Bits.jpg" height="200px" width="300px" /></center></a> 
+		      </div>
+			  
 			  
 
         </div>
