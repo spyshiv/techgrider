@@ -220,8 +220,8 @@
 				 <p>Digital Trends is your home for technology news, CE product reviews, mobile app reviews and daily videos.</p>
 				 <a href="result.php?link=digitaltrends"><center><img src="Images/newsImg/wallpaper/Digitaltrends.jpg" height="200px" width="300px" /></center></a>
 		      </div>
-
 	     </div>
+	     </br></br>
 
        <a href="#" class="back-to-top">Back to Top</a>
         <script>
