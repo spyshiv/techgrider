@@ -236,6 +236,19 @@
 				  <p>CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues.</p>
 				  <a href="result.php?link=cnet"><center><img src="Images/newsImg/wallpaper/Cnet.jpg" height="200px" width="300px" /></center></a>
 			  </div>
+
+			  div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/Thinkgeek.png" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=thinkgeek"><div>
+				  <strong><p>Think Geek</p></strong>				 
+				 </div></a>
+				 <a href="check.php?link=thinkgeek"><div  class="add_to_library" id="think_geek"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>ThinkGeek's latest and greatest stuff for smart masses brought to you with love from the minions of the Zombie...</p>
+				 <a href="result.php?link=thinkgeek"><center><img src="Images/newsImg/wallpaper/Thinkgeek.jpg" height="200px" width="300px" /></center></a> 
+		      </div>
 			  
 
         </div>
