@@ -237,7 +237,7 @@
 				  <a href="result.php?link=cnet"><center><img src="Images/newsImg/wallpaper/Cnet.jpg" height="200px" width="300px" /></center></a>
 			  </div>
 
-			  div class="element">
+			  <div class="element">
 			     <div class="element_head">
                   <img src="Images/newsImg/Thinkgeek.png" height="32px" width="32px" />
 				  </div>
