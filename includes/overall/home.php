@@ -301,10 +301,8 @@
 				 <p>This is a private feed for friends and partners of Lifehacker, containing full editorial posts.It will not carry advertise</p>
 				 <a href="result.php?link=tedtalks"><center><img src="Images/newsImg/wallpaper/Tedtalks.jpg" height="200px" width="300px" /></center></a> 
 		      </div>
-
         </div>
-
-
+        </br></br>
        <a href="#" class="back-to-top">Back to Top</a>
         <script>
             
