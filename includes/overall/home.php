@@ -289,7 +289,7 @@
 				 <p>Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics</p>
 				 <a href="result.php?link=hackernews"><center><img src="Images/newsImg/wallpaper/Hackernews.jpg" height="200px" width="300px" /></center></a> 
 		      </div>
-		      div class="element">
+		      <div class="element">
 			     <div class="element_head">
                   <img src="Images/newsImg/Tedtalks.png" height="32px" width="32px" />
 				  </div>
