@@ -277,6 +277,19 @@
 				  <a href="result.php?link=gsmarena"><center><img src="Images/newsImg/wallpaper/Gsmarena.jpg" height="200px" width="300px" /></center></a>
 			  </div>
 
+			  <div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/Hackernews.ico" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=hackernews"><div>
+				  <strong><p>Hacker News</p></strong>				 
+				 </div></a>
+				 <a href="check.php?link=hackernews"><div  class="add_to_library" id="hacker_news"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics</p>
+				 <a href="result.php?link=hackernews"><center><img src="Images/newsImg/wallpaper/Hackernews.jpg" height="200px" width="300px" /></center></a> 
+		      </div>
+
         </div>
 
 
