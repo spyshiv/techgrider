@@ -289,6 +289,18 @@
 				 <p>Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics</p>
 				 <a href="result.php?link=hackernews"><center><img src="Images/newsImg/wallpaper/Hackernews.jpg" height="200px" width="300px" /></center></a> 
 		      </div>
+		      div class="element">
+			     <div class="element_head">
+                  <img src="Images/newsImg/Tedtalks.png" height="32px" width="32px" />
+				  </div>
+				  <a href="result.php?link=tedtalks"><div>
+				  <strong><p>Ted Talks</p></strong>				 
+				 </div></a>
+				 <a href="check.php?link=tedtalks"><div  class="add_to_library" id="ted_talks"><b><p title="Add To Library" align="center">+</p></b>
+				  </div></a>
+				 <p>This is a private feed for friends and partners of Lifehacker, containing full editorial posts.It will not carry advertise</p>
+				 <a href="result.php?link=tedtalks"><center><img src="Images/newsImg/wallpaper/Tedtalks.jpg" height="200px" width="300px" /></center></a> 
+		      </div>
 
         </div>
 
