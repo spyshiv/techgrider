@@ -18,9 +18,94 @@
 		$connection = mysql_connect("localhost", "root", "");
 		// Selecting Database
 		$db = mysql_select_db("shiv", $connection);
-	?>
-    
+    	for($i=0;$i<sizeof($newslist);$i++)
+	{
+		  $news=$newslist[$i];
+		  
+			$user_check=$_SESSION['login_user'];
+			// SQL Query To Fetch Complete Information Of User
+			$ses_sql=mysql_query("select user_id from users where username='$user_check'", $connection);
+			$row = mysql_fetch_assoc($ses_sql);
+			$user_id =$row['user_id'];
+			//echo $user_id;
+			
 
+		
+		// SQL query to fetch information of registerd users and finds user match.
+		$query= mysql_query("select * from library where $news='$news' and user_id=$user_id", $connection);
+		 $rows = mysql_num_rows($query);
+		if ($rows == 1 and $news=='engadget') {
+		 include 'parts/library/engadget.php';
+		 }
+		 if ($rows == 1 and $news=='theverge') {
+		 include 'parts/library/theverge.php';
+		 }
+		 if ($rows == 1 and $news=='lifehacker') {
+		 include 'parts/library/lifehacker.php';
+		 }
+		 
+		 
+		 if ($rows == 1 and $news=='readwrite') {
+		 include 'parts/library/readwrite.php';
+		 }
+		 if ($rows == 1 and $news=='techcrunch') {
+		 include 'parts/library/techcrunch.php';
+		 }
+		 if ($rows == 1 and $news=='gizmodo') {
+		 include 'parts/library/gizmodo.php';
+		 }
+		 
+		 if ($rows == 1 and $news=='mashable') {
+		 include 'parts/library/mashable.php';
+		 }
+		 if ($rows == 1 and $news=='wired') {
+		 include 'parts/library/wired.php';
+		 }
+		 if ($rows == 1 and $news=='arstechnica') {
+		 include 'parts/library/arstechnica.php';
+		 }
+		 
+		 if ($rows == 1 and $news=='slashdot') {
+		 include 'parts/library/slashdot.php';
+		 }
+		 if ($rows == 1 and $news=='googleblog') {
+		 include 'parts/library/googleblog.php';
+		 }
+		 if ($rows == 1 and $news=='macrumors') {
+		 include 'parts/library/macrumors.php';
+		 }
+		 
+		 if ($rows == 1 and $news=='thenextweb') {
+		 include 'parts/library/thenextweb.php';
+		 }
+		 if ($rows == 1 and $news=='androidcentral') {
+		 include 'parts/library/androidcentral.php';
+		 }
+		 if ($rows == 1 and $news=='digitaltrends') {
+		 include 'parts/library/digitaltrends.php';
+		 }
+		 
+		 if ($rows == 1 and $news=='cnet') {
+		 include 'parts/library/cnet.php';
+		 }
+		 if ($rows == 1 and $news=='thinkgeek') {
+		 include 'parts/library/thinkgeek.php';
+		 }
+		 if ($rows == 1 and $news=='bits') {
+		 include 'parts/library/bits.php';
+		 }
+		 
+		 if ($rows == 1 and $news=='gsmarena') {
+		 include 'parts/library/gsmarena.php';
+		 }
+		 if ($rows == 1 and $news=='hackernews') {
+		 include 'parts/library/hackernews.php';
+		 }
+		 if ($rows == 1 and $news=='tedtalks') {
+		 include 'parts/library/tedtalks.php';
+		 }
+	}
+?>
   </div>
   </div>
 </body>
