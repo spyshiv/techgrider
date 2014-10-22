@@ -13,6 +13,14 @@
 <div id="whole" align="center">
 <h1 id="home">My Library</h1>
   <div class="row">
+     <?php
+	    $newslist=array('theverge','engadget','lifehacker','readwrite','techcrunch','gizmodo','mashable','wired','arstechnica','slashdot','googleblog','macrumors','thenextweb','androidcentral','digitaltrends','cnet','thinkgeek','bits','gsmarena','hackernews','tedtalks');
+		$connection = mysql_connect("localhost", "root", "");
+		// Selecting Database
+		$db = mysql_select_db("shiv", $connection);
+	?>
+    
+
   </div>
   </div>
 </body>
