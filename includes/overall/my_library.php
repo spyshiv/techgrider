@@ -105,6 +105,8 @@
 		 include 'parts/library/tedtalks.php';
 		 }
 	}
+	
+		 // else echo 'no new Elements are inserted in library';
 ?>
   </div>
   
