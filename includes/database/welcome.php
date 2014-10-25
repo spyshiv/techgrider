@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Your Home Page</title>
+<title>Home Page</title>
 <style>
       #profile{
 		font-family:verdana;
