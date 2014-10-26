@@ -9,6 +9,27 @@
 <!---->
 </head>
 <body>
+<div style="text-align: center;">
+		<section id="content">
+		<form action="" method="post">
+			<h2>Login </h2>
+			<div>
+				<input name="username" type="text" placeholder="Username" required="" id="username" />
+			</div>
+			<div>
+				<input name="password" type="password" placeholder="********" required="" id="password" />
+			</div>
+			<div>
+				<input name="submit" type="submit" value="Log in" />
+				<!--<span><?php //echo $error; ?></span>-->
+			<!--	<a href="#">Lost your password?</a>-->
+				<a href="signup.php">Register</a>
+			</div>
+		</form><!-- form -->
+		<div class="button">
+			<a href="../withoutlogin/home.php">Continue Without Login</a>
+		</div><!-- button -->
+	</section><!-- content -->
 	
 </body>
 </html>
