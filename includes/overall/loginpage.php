@@ -29,7 +29,7 @@
 		<div class="button">
 			<a href="../withoutlogin/home.php">Continue Without Login</a>
 		</div><!-- button -->
-	</section><!-- content -->
-	
+	</section><!-- content -->	
+</div>
 </body>
 </html>
