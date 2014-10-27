@@ -1,4 +1,6 @@
 <?php
+session_start(); // Starting Session
+$error=''; 
 if (isset($_POST['submit']))
 {   
 			// Define $username and $password
