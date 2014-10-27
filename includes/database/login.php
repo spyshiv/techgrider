@@ -28,5 +28,7 @@ if (isset($_POST['submit']))
 		      </script>";
 			}
 			mysql_close($connection); // Closing Connection
+			//page script is done
+		
 }
 ?>
