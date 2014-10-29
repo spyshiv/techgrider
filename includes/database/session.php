@@ -15,5 +15,5 @@ mysql_close($connection); // Closing Connection
 header('Location: ../overall/signup.php'); // Redirecting To Home Page
 exit();
 }
-
-  ?>
+//Session is done
+?>
