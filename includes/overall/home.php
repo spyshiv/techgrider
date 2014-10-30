@@ -12,6 +12,11 @@
 <!---->
 </head>
 <body>
+     <?php
+	   include '../database/profile.php';
+	   include 'parts/header.php';
+	?>
+
      <div id="whole" align="center">
       <h1 id="home">Home</h1>
          <div class="row">
