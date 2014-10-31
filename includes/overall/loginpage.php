@@ -9,6 +9,10 @@
 <!---->
 </head>
 <body>
+      <?php
+	    include 'parts/header.php';
+	 ?>
+
 <div style="text-align: center;">
 		<section id="content">
 		<form action="" method="post">
