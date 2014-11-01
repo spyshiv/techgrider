@@ -52,5 +52,30 @@ $dbhost = 'localhost';
 $dbuser = 'root';
 $dbpass = '';
 $conn = mysql_connect($dbhost, $dbuser, $dbpass);
+if(! $conn )
+{
+  die('Could not connect: ' . mysql_error());
+}
+
+if(! get_magic_quotes_gpc() )
+{
+   $firstname = addslashes ($_POST['firstname']);
+   $lastname = addslashes ($_POST['lastname']);
+   $username = addslashes ($_POST['username']);
+   $password = addslashes ($_POST['password']);
+   //$repeatpassword = addslashes ($_POST['repeatpassword']);
+   $email = addslashes ($_POST['email']);
+}
+else
+{  
+   $firstname = $_POST['firstname'];
+   $lastname = $_POST['lastname'];
+   $username = $_POST['username'];
+   $password = $_POST['password'];
+   //$repeatpassword = $_POST['repeatpassword'];
+   $email = $_POST['email'];
+   
+}
+
 </body>
 </html>
