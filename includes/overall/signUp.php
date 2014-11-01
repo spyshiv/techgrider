@@ -45,5 +45,12 @@
 		</div><!-- button -->
 	</section><!-- content -->
 </div>
+	 <?php
+if(isset($_POST['submit']))
+{
+$dbhost = 'localhost';
+$dbuser = 'root';
+$dbpass = '';
+$conn = mysql_connect($dbhost, $dbuser, $dbpass);
 </body>
 </html>
