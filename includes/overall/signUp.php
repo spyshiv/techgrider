@@ -90,7 +90,10 @@ if(! $retval )
 		   </script>";
 		   die();
 }
-
+include 'loginpage.php';
+mysql_close($conn);
+}
+?>
 
 </body>
 </html>
