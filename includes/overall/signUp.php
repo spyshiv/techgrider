@@ -76,6 +76,12 @@ else
    $email = $_POST['email'];
    
 }
+$sql = "INSERT INTO users ".
+       "(firstname,lastname,username,password,email) ".
+       "VALUES('$firstname','$lastname','$username','$password','$email')";
+mysql_select_db('shiv');
+$retval = mysql_query( $sql, $conn );
+
 
 </body>
 </html>
