@@ -81,6 +81,15 @@ $sql = "INSERT INTO users ".
        "VALUES('$firstname','$lastname','$username','$password','$email')";
 mysql_select_db('shiv');
 $retval = mysql_query( $sql, $conn );
+if(! $retval )
+{
+  // die('Could not enter data: ' . mysql_error());
+  $message='Username is already exist please choose a different user name';
+   echo "<script type='text/javascript'>alert('$message');
+           window.location = 'signup.php';
+		   </script>";
+		   die();
+}
 
 
 </body>
