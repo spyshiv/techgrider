@@ -21,4 +21,8 @@
   </div>
   <div style="clear: both"></div>
 </div>
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
+<script src="decoration/js/jquery-2.1.1.min.js"></script>
+<!--<script type="text/javascript" src="http://momentjs.com/downloads/moment-with-langs.min.js"></script>-->
+<script type="text/javascript" src="decoration/js/result.js"></script>
 </body>
