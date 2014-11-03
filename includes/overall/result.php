@@ -9,6 +9,10 @@
 <link href="decoration/css/result.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
+     <?php
+	    include '../database/profile.php';
+	    include 'parts/header.php';
+	 ?>
 	<div style="padding: 10px;">
 <h1 id="latest news" align="center">Latest News</h1>
   
