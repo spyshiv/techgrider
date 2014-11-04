@@ -7,6 +7,20 @@
 <link type="text/css" rel="stylesheet" href="decoration/css/cssindex.css"/>
 <script type="text/javascript" src="decoration/js/jsindex.js"></script>
 <link href="decoration/css/result.css" rel="stylesheet" type="text/css" />
+<style>
+    body
+	{font-family:verdana;
+	background-color:#D8D8D8;
+	border:2px outset #F0F0F0;
+	}
+    .rssDiv{float:left;}
+	.itemContent img{
+	 height:200px;
+	 float:right;
+	 width:auto;
+	 } 
+    
+</style>
 </head>
 <body>
      <?php
