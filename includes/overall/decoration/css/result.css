@@ -9,3 +9,4 @@
 			border:6px outset #F0F0F0;
 			height:400px;
 			}
+.feedEkList li:last-child{border-bottom:none;}
