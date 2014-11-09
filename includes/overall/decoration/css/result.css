@@ -17,3 +17,6 @@
 			text-decoration:none }
 .itemTitle a:hover{ text-decoration:underline }
 .itemTitle a:visited{ color:black; }
+
+.itemDate{font-size:11px;
+			color:#AAAAAA;} 
