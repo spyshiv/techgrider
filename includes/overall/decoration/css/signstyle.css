@@ -23,3 +23,11 @@ form:after {
 	line-height: 20px;
 	margin: 10px 0 30px;
 }
+#content h2:before,
+#content h2:after {
+	content: "";
+	height: 1px;
+	position: absolute;
+	top: 10px;
+	width: 27%;
+}
