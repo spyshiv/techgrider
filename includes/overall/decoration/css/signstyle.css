@@ -74,3 +74,4 @@ form:after {
 	top: 0;
 	z-index: -2;
 }
+#content form { margin: 0 20px; position: relative }
