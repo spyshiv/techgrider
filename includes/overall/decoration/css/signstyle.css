@@ -130,3 +130,11 @@ form:after {
     margin: 30px 15px 0 0;
     text-decoration: underline;
 }
+.button {
+	
+	background: -webkit-linear-gradient(top,  rgba(247,249,250,1) 0%,rgba(240,240,240,1) 100%);
+	-webkit-border-radius: 0 0 5px 5px;
+	border-radius: 0 0 5px 5px;
+	border-top: 1px solid #CFD5D9;
+	padding: 15px 0;
+}
