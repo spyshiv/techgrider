@@ -66,6 +66,8 @@
 	<script type="text/javascript" src="includes/overall/engine1/wowslider.js"></script>
 	<script type="text/javascript" src="includes/overall/engine1/script.js"></script>
 <!-- End WOWSlider.com BODY section -->
+    <center><a href="includes/overall/loginpage.php"><img src="includes/overall/images/start.png" width="100px" height="auto" alt="start_read"/></a></center>
+	 </div>
 
  </body>
 </html>
