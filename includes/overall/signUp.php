@@ -9,5 +9,8 @@
 </head>
 
 <body>
+   <?php
+	    include 'parts/header.php';
+	 ?>
 </body>
 </html>
